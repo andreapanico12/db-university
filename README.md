@@ -25,3 +25,9 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 SOLUZIONE AL SEGUENTE LINK(preferibile all'immagine in quanto contiene nei commenti se la colonna può essere null oppure no):
 
 https://drawsql.app/teams/andrea-44/diagrams/university
+
+## Consegna PARTE 2:
+
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+Cosa consegnare?
+Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
